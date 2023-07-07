@@ -216,11 +216,14 @@ Memulai program dengan menjalankan file main.py
 - Nama Item: Pasta Gigi, Qty: 3, Harga: 15000
 ![test case 1](https://drive.google.com/uc?export=view&id=1ezC6Z-WZPqvBx3lFIRkXohAc45TeYIP9)
 
-2. Menghapus Item yang bernama Pasta Gigi
+2. Menghapus Item yang bernama Pasta Gigi, sehingga akan hilang apabila check order.
 ![test case 2](https://drive.google.com/uc?export=view&id=1AhrItjHHz0Q1oyeubWNGOuPccoCvqwrs)
 
-3. Reset semua transaksi
+3. Reset semua transaksi, tidak ada item yang tersimpan
 ![test case 3](https://drive.google.com/uc?export=view&id=1ue4YbLkffh0iltUHZa5IwPvnD7UMakri)
 
-4. Output Total Belanja
+4. Output Total Belanja, menampilkan semua item belanjaan dan menampilkan total harga dari semua item (mendapat diskon apabila sesuai requirement)
 ![test case 4](https://drive.google.com/uc?export=view&id=1aqEINIiPHMbe7mpJOq_Gw4Dwdyp8toW_)
+
+## Future works
+Program self service cashier ini sudah dapat melakukan semua requirement yang telah diberikan, akan tetapi di masa depan dapat ditambahkan database, agar semua data transaksi dapat disimpan.
